@@ -8,6 +8,5 @@ function solution(arr) {
     while (occurences[num]) {
         num++;
     }
-
     return num;
 }
